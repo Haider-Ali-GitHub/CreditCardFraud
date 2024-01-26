@@ -15,8 +15,8 @@ This project aims to detect fraudulent transactions in credit card data using va
 7. [Documentation](#documentation)
 8. [Examples](#examples)
 9. [Troubleshooting](#troubleshooting)
-10. [Contributors](#contributors)
-11. [License](#license)
+
+
 
 ## Installation
 
