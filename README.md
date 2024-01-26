@@ -15,9 +15,6 @@ Several models have been trained and evaluated:
 - Random Forest Classifier
 - XGBoost Classifier
 
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
 What you need to install the software:
 - Python 3.x
